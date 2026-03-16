@@ -118,6 +118,7 @@ Lower values indicate better performance.
 ## 🎧 Real-World Demo
 
 The notebook supports transcription of custom audio samples, enabling practical testing beyond benchmark datasets.
+Hugging Face: Nihal108-bi/whisper-hindi-noisy
 
 ---
 
